@@ -2,4 +2,6 @@
 
 A simple programing Language  and IDE for LILYGO ESP32-S3 T-Display.
 
-More soon!
+Download it from here!
+
+the manual is in the release.
