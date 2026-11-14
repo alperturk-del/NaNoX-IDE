@@ -10,4 +10,4 @@ the manual is in the release.
 
 what is the sts7789.py and tft_config.py?
 
-These are the drivers that make the screen work in the s3.
+These are the drivers that make the screen work in the s3( put it inside the s3 in order to work!)
